@@ -4,8 +4,6 @@
 
 这里是项目描述。
 
-<video width="560" height="315" controls>
-  <source src="https://lintongai.com/uploads/loadingDemo.mp4" type="video/mp4">
-  您的浏览器不支持视频播放。
-</video>
+<iframe src="https://lintongai.com/uploads/loadingDemo.mp4" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="560" height="315"> </iframe>
+
 
